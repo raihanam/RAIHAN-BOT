@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url" : "git + https://github.com/raihanam/RAIHAN-BOT.git
+    "url" : "git + https://github.com/raihanam/RAIHAN-BOT.git"
   },
-  "keywords": [
+  "kata kunci" : [
     "k"
   ],
   "author": "ANDIKA PUTRA PRATAMA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aris187id/AR15BOT/issues"
+    "url" : "https://github.com/raihanam/RAIHAN-BOT/issues"
   },
-  "homepage": "https://github.com/aris187id/AR15BOT#readme"
+  "beranda" : "https://github.com/raihanam/RAIHAN-BOT#readme
 }
