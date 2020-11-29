@@ -1,5 +1,5 @@
 {
-  "name": "AR15BOT",
+  "name": "ALFBOT",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -34,7 +34,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "ANDIKA PUTRA PRATAMA",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aris187id/AR15BOT/issues"
